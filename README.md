@@ -1,6 +1,22 @@
 Social Media Clone (Laravel + Tailwind CSS)
 A simple and modern social media application where users can register and log in, create and delete their own posts, and view a dashboard.
 
+## Screenshots
+
+Here are some visual previews of the application:
+
+### Login Page
+A clean and user-friendly login page.
+![Login Page Image](https://raw.githubusercontent.com/aglucazgeorgeann-ship-it/social-media-clone/92092798624159abdf493e8a9a152a277787322e/login.jpg)
+
+### Dashboard View
+The main dashboard where posts are displayed.
+![Dashboard Application Image](https://raw.githubusercontent.com/aglucazgeorgeann-ship-it/social-media-clone/refs/heads/main/dashboard.jpg)
+
+### Posts View
+The list of posts submitted by users.
+![Posts View Image](https://raw.githubusercontent.com/aglucazgeorgeann-ship-it/social-media-clone/92092798624159abdf493e8a9a152a277787322e/posts.jpg)
+
 Built with Laravel, Blade templates, Tailwind CSS, and SQLite/MySQL.
 
 Core Features
